@@ -88,3 +88,8 @@ corruption=speckle_noise | severity=2 | tta_acc=77.8300
 corruption=speckle_noise | severity=3 | tta_acc=72.7500
 corruption=speckle_noise | severity=4 | tta_acc=59.4700
 corruption=speckle_noise | severity=5 | tta_acc=46.0900
+corruption=zoom_blur | severity=1 | tta_acc=88.5400
+corruption=zoom_blur | severity=2 | tta_acc=86.1400
+corruption=zoom_blur | severity=3 | tta_acc=80.0600
+corruption=zoom_blur | severity=4 | tta_acc=73.5300
+corruption=zoom_blur | severity=5 | tta_acc=39.7900

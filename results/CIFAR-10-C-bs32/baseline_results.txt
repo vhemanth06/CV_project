@@ -88,3 +88,8 @@ corruption=speckle_noise | severity=2 | baseline_acc=69.0200
 corruption=speckle_noise | severity=3 | baseline_acc=60.7500
 corruption=speckle_noise | severity=4 | baseline_acc=46.1000
 corruption=speckle_noise | severity=5 | baseline_acc=35.3900
+corruption=zoom_blur | severity=1 | baseline_acc=87.3300
+corruption=zoom_blur | severity=2 | baseline_acc=83.9800
+corruption=zoom_blur | severity=3 | baseline_acc=76.8700
+corruption=zoom_blur | severity=4 | baseline_acc=68.8400
+corruption=zoom_blur | severity=5 | baseline_acc=56.5600
